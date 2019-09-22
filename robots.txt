@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohyohtuabu.derekm.tech/sitemap.xml
